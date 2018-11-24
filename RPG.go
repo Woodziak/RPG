@@ -90,6 +90,7 @@ Predef:
 					}
 					Str := string(Txt)
 					fmt.Println(Str)
+
 					break Predef
 				case 2:
 					Txt, err := ioutil.ReadFile("txtsrc/Aika.txt")
@@ -118,6 +119,7 @@ func clrscr(){
 	cmd:=exec.Command("cmd", "/c", "cls")
 	cmd.Stdout = os.Stdout
 	cmd.Run()
+	//funkcja zapożyczona ze Stackoverflow
 }
 
 func CharPick(b bool){
@@ -177,7 +179,7 @@ func main(){
 		//funkcja ma za zadanie wybrac postac gracza
 
 
-	fmt.Println("Kończymy. Wojna się nie zmieniła")
+	fmt.Println("Kończymy. Wojna się nie zmieniła.")
 	bufio.NewReader(os.Stdin).ReadBytes('\n')
 
 

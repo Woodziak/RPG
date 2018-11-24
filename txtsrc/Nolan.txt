@@ -1,10 +1,11 @@
-Nolan jest silny
-Imię: Nolan
-Płeć: Mężczyzna
-Siła: 9
-Percepcja: 6
-Wytrzymałość:7
-Charyzma: 5
+Imię:         Nolan
+Płeć:         Mężczyzna
+Siła:         9
+Percepcja:    6
+Wytrzymałość: 7
+Charyzma:     5
 Inteligencja: 4
-Zwinność: 5
-Szczęście: 3
+Zwinność:     5
+Szczęście:    3
+
+Nolan jest silny, jak wół
