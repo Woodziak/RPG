@@ -108,7 +108,7 @@ Predef:
 					fmt.Println(Str)
 					break Predef
 				default:
-					//clrscr()
+					clrscr()
 				}
 
 
